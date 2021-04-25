@@ -5,7 +5,7 @@ this repo is a quick solution to go through code . This is good for quick compar
 In next version , I will include fuzzy-text based commit search and compare feature.
 
 
-# use alias.sh to quickly build and move to bin folder. 
+# use alias.sh to quickly build and move binary to bin folder. 
 
 # run in any git directory to go through history
 

@@ -1,0 +1,1 @@
+alias build="go build && sudo mv gitplayer /usr/bin"
